@@ -1,0 +1,20 @@
+DLL yang harus di-copy
+glew32.dll
+libgcc_s_seh-1.dll
+libjpeg-9.dll
+libpng16-16.dll
+libstdc++-6.dll
+libtiff-5.dll
+libwebp-7.dll
+libwinpthread-1.dll
+SDL2.dll
+SDL2_image.dll
+zlib1.dll
+
+cara compile di linux
+
+g++ -o hasil tubesASD.cpp -Wall -lSDL2main -lSDL2 -lSDL2_image -lGL -lGLEW -lm
+
+Cara compile di mingw
+
+g++ -o hasil.exe .\tubesASD.cpp -Wall -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lopengl32 -lglew32 -mwindows
