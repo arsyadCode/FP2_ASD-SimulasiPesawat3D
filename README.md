@@ -2,8 +2,19 @@
 
 Run file 'hasil.exe'
 
-## Any something wrong/error?
+## Instruction Gameplay
 
-Unzip 'gamebyNezha.zip', extract to another/new folder, then run 'hasil.exe'
+When you run the gameplay, please keep in mind, you just need to press the button
 
-Enjoy the simulation game ^^
+- W: Forward
+- S: Backward
+- Space: Shoot
+  Also, Drag the Mouse to orient the plane.
+
+If you press another button that was mentioned before, the terrain will probably disappear.
+
+## Any something wrong/error when running the file?
+
+Unzip 'gamebyNezha.zip', extract it to another/new folder, then run 'hasil.exe'
+
+Enjoy the simulation game :wink:
