@@ -9,7 +9,7 @@ When you run the gameplay, please keep in mind, you just need to press the butto
 - W: Forward
 - S: Backward
 - Space: Shoot
-  Also, Drag the Mouse to orient the plane.
+- Drag Mouse to orient the plane
 
 If you press another button that was mentioned before, the terrain will probably disappear.
 
